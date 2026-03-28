@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Achyut
 
-<!--
-**aaachyuttt/aaachyuttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a developer passionate about building cool things  
+🌱 Currently learning: Web Development / AI / Open Source  
+🚀 Projects: Check out my repos below  
+📫 How to reach me: aaachyuttt@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- 💻 Languages: JavaScript, Python, C, C++, PHP
+- 🌐 Web: HTML, CSS, React, NextJS
+- 🛠️ Tools: Git, VS Code, Docker
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: https://linkedin.com/in/achut-adhikari
