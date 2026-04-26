@@ -1,9 +1,10 @@
-# Hi there 👋, I'm Achyut
+# Hi there 👋, I'm Achut
 
 💻 I'm a developer passionate about building cool things  
 🌱 Currently learning: Web Development / AI / Open Source  
 🚀 Projects: Check out my repos below  
 📫 How to reach me: aaachyuttt@gmail.com
+                    achut.dev@gmail.com
 
 ---
 
